@@ -1,0 +1,347 @@
+{
+ "correspondencia": {
+  "Face": {
+   "vertices": 2266,
+   "confirmados": 1934,
+   "usados": 1879
+  },
+  "FaceMouth": {
+   "vertices": 1053,
+   "confirmados": 1046,
+   "usados": 1014
+  },
+  "EyeWhite": {
+   "vertices": 290,
+   "confirmados": 290,
+   "usados": 290
+  },
+  "escala_global": 1.171,
+  "escala_local_min_max": [
+   0.878,
+   1.562
+  ]
+ },
+ "formas": {
+  "_mouthPress+CatMouth": {
+   "origen": "hinzka",
+   "max_mm": 9.93,
+   "max_fuente_mm": 6.86,
+   "anomalos": 1,
+   "dientes_corregidos": 5
+  },
+  "_mouthPress+DuckMouth_L": {
+   "origen": "hinzka",
+   "max_mm": 9.38,
+   "max_fuente_mm": 6.6,
+   "anomalos": 3,
+   "dientes_corregidos": 3
+  },
+  "_mouthPress+DuckMouth_R": {
+   "origen": "hinzka",
+   "max_mm": 9.24,
+   "max_fuente_mm": 6.6,
+   "anomalos": 3,
+   "dientes_corregidos": 3
+  },
+  "_mouthRollUpper+CenterDown": {
+   "origen": "hinzka",
+   "max_mm": 7.34,
+   "max_fuente_mm": 4.92,
+   "anomalos": 0,
+   "dientes_corregidos": 1
+  },
+  "_mouthUpperUpLeft": {
+   "origen": "hinzka",
+   "max_mm": 6.68,
+   "max_fuente_mm": 4.39,
+   "anomalos": 1,
+   "dientes_corregidos": 5
+  },
+  "_mouthUpperUpRight": {
+   "origen": "hinzka",
+   "max_mm": 6.65,
+   "max_fuente_mm": 4.39,
+   "anomalos": 1,
+   "dientes_corregidos": 5
+  },
+  "cheekPuff": {
+   "origen": "hinzka",
+   "max_mm": 13.87,
+   "max_fuente_mm": 10.91,
+   "anomalos": 3,
+   "dientes_corregidos": 0
+  },
+  "cheekSquintLeft": {
+   "origen": "hinzka",
+   "max_mm": 7.65,
+   "max_fuente_mm": 5.69,
+   "anomalos": 5,
+   "dientes_corregidos": 8
+  },
+  "cheekSquintRight": {
+   "origen": "hinzka",
+   "max_mm": 7.3,
+   "max_fuente_mm": 5.69,
+   "anomalos": 6,
+   "dientes_corregidos": 8
+  },
+  "jawForward": {
+   "origen": "hinzka",
+   "max_mm": 4.64,
+   "max_fuente_mm": 3.0,
+   "anomalos": 0,
+   "dientes_corregidos": 15
+  },
+  "jawLeft": {
+   "origen": "hinzka",
+   "max_mm": 4.42,
+   "max_fuente_mm": 2.89,
+   "anomalos": 0,
+   "dientes_corregidos": 9
+  },
+  "jawOpen": {
+   "origen": "hinzka",
+   "max_mm": 44.93,
+   "max_fuente_mm": 24.89,
+   "anomalos": 12,
+   "dientes_corregidos": 82
+  },
+  "jawRight": {
+   "origen": "hinzka",
+   "max_mm": 4.42,
+   "max_fuente_mm": 2.89,
+   "anomalos": 0,
+   "dientes_corregidos": 9
+  },
+  "mouthClose": {
+   "origen": "hinzka",
+   "max_mm": 28.13,
+   "max_fuente_mm": 19.01,
+   "anomalos": 12,
+   "dientes_corregidos": 16
+  },
+  "mouthDimpleLeft": {
+   "origen": "hinzka",
+   "max_mm": 8.1,
+   "max_fuente_mm": 6.25,
+   "anomalos": 5,
+   "dientes_corregidos": 8
+  },
+  "mouthDimpleRight": {
+   "origen": "hinzka",
+   "max_mm": 8.16,
+   "max_fuente_mm": 6.25,
+   "anomalos": 6,
+   "dientes_corregidos": 9
+  },
+  "mouthFrownLeft": {
+   "origen": "hinzka",
+   "max_mm": 2.94,
+   "max_fuente_mm": 2.08,
+   "anomalos": 0,
+   "dientes_corregidos": 1
+  },
+  "mouthFrownRight": {
+   "origen": "hinzka",
+   "max_mm": 2.89,
+   "max_fuente_mm": 2.08,
+   "anomalos": 0,
+   "dientes_corregidos": 1
+  },
+  "mouthFunnel": {
+   "origen": "hinzka",
+   "max_mm": 19.55,
+   "max_fuente_mm": 13.1,
+   "anomalos": 25,
+   "dientes_corregidos": 0
+  },
+  "mouthLeft": {
+   "origen": "hinzka",
+   "max_mm": 28.89,
+   "max_fuente_mm": 21.42,
+   "anomalos": 14,
+   "dientes_corregidos": 8
+  },
+  "mouthLowerDownLeft": {
+   "origen": "hinzka",
+   "max_mm": 4.93,
+   "max_fuente_mm": 3.51,
+   "anomalos": 4,
+   "dientes_corregidos": 6
+  },
+  "mouthLowerDownRight": {
+   "origen": "hinzka",
+   "max_mm": 4.92,
+   "max_fuente_mm": 3.51,
+   "anomalos": 4,
+   "dientes_corregidos": 7
+  },
+  "mouthPressLeft": {
+   "origen": "hinzka",
+   "max_mm": 4.43,
+   "max_fuente_mm": 3.2,
+   "anomalos": 3,
+   "dientes_corregidos": 4
+  },
+  "mouthPressRight": {
+   "origen": "hinzka",
+   "max_mm": 4.57,
+   "max_fuente_mm": 3.2,
+   "anomalos": 5,
+   "dientes_corregidos": 4
+  },
+  "mouthPucker": {
+   "origen": "hinzka",
+   "max_mm": 12.12,
+   "max_fuente_mm": 8.46,
+   "anomalos": 10,
+   "dientes_corregidos": 0
+  },
+  "mouthRight": {
+   "origen": "hinzka",
+   "max_mm": 29.02,
+   "max_fuente_mm": 21.41,
+   "anomalos": 17,
+   "dientes_corregidos": 8
+  },
+  "mouthRollLower": {
+   "origen": "hinzka",
+   "max_mm": 6.2,
+   "max_fuente_mm": 4.02,
+   "anomalos": 5,
+   "dientes_corregidos": 11
+  },
+  "mouthRollUpper": {
+   "origen": "hinzka",
+   "max_mm": 7.34,
+   "max_fuente_mm": 4.91,
+   "anomalos": 8,
+   "dientes_corregidos": 4
+  },
+  "mouthShrugLower": {
+   "origen": "hinzka",
+   "max_mm": 6.54,
+   "max_fuente_mm": 4.36,
+   "anomalos": 13,
+   "dientes_corregidos": 0
+  },
+  "mouthShrugUpper": {
+   "origen": "hinzka",
+   "max_mm": 6.53,
+   "max_fuente_mm": 5.0,
+   "anomalos": 11,
+   "dientes_corregidos": 10
+  },
+  "mouthSmileLeft": {
+   "origen": "hinzka",
+   "max_mm": 21.61,
+   "max_fuente_mm": 15.81,
+   "anomalos": 12,
+   "dientes_corregidos": 2
+  },
+  "mouthSmileRight": {
+   "origen": "hinzka",
+   "max_mm": 21.57,
+   "max_fuente_mm": 15.82,
+   "anomalos": 10,
+   "dientes_corregidos": 2
+  },
+  "mouthStretchLeft": {
+   "origen": "hinzka",
+   "max_mm": 11.15,
+   "max_fuente_mm": 8.81,
+   "anomalos": 13,
+   "dientes_corregidos": 4
+  },
+  "mouthStretchRight": {
+   "origen": "hinzka",
+   "max_mm": 11.17,
+   "max_fuente_mm": 8.81,
+   "anomalos": 15,
+   "dientes_corregidos": 4
+  },
+  "mouthUpperUpLeft": {
+   "origen": "hinzka",
+   "max_mm": 8.7,
+   "max_fuente_mm": 5.71,
+   "anomalos": 3,
+   "dientes_corregidos": 6
+  },
+  "mouthUpperUpRight": {
+   "origen": "hinzka",
+   "max_mm": 8.67,
+   "max_fuente_mm": 5.71,
+   "anomalos": 4,
+   "dientes_corregidos": 6
+  },
+  "noseSneerLeft": {
+   "origen": "hinzka",
+   "max_mm": 2.7,
+   "max_fuente_mm": 12.99,
+   "anomalos": 0,
+   "dientes_corregidos": 0
+  },
+  "noseSneerRight": {
+   "origen": "hinzka",
+   "max_mm": 2.7,
+   "max_fuente_mm": 12.99,
+   "anomalos": 0,
+   "dientes_corregidos": 0
+  },
+  "tongueOut": {
+   "origen": "hinzka",
+   "max_mm": 27.38,
+   "max_fuente_mm": 18.32,
+   "anomalos": 0,
+   "dientes_corregidos": 0
+  },
+  "eyeBlinkLeft": {
+   "origen": "propia",
+   "max_mm": 36.48
+  },
+  "eyeBlinkRight": {
+   "origen": "propia",
+   "max_mm": 36.48
+  },
+  "eyeSquintLeft": {
+   "origen": "propia",
+   "max_mm": 10.01
+  },
+  "eyeSquintRight": {
+   "origen": "propia",
+   "max_mm": 10.01
+  },
+  "eyeWideLeft": {
+   "origen": "propia",
+   "max_mm": 6.12
+  },
+  "eyeWideRight": {
+   "origen": "propia",
+   "max_mm": 6.12
+  },
+  "browDownLeft": {
+   "origen": "propia",
+   "max_mm": 9.39
+  },
+  "browDownRight": {
+   "origen": "propia",
+   "max_mm": 9.39
+  },
+  "browInnerUp": {
+   "origen": "propia",
+   "max_mm": 7.95
+  },
+  "browOuterUpLeft": {
+   "origen": "propia",
+   "max_mm": 7.0
+  },
+  "browOuterUpRight": {
+   "origen": "propia",
+   "max_mm": 7.0
+  }
+ },
+ "asoman_en_reposo": 12,
+ "lado_izquierdo_x": -1.0,
+ "formas_nuevas": 50,
+ "clips_arkit": 52
+}

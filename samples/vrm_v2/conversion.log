@@ -1,0 +1,31 @@
+﻿== 3DVtuber: creando el personaje 'Rabbit_sin_gorra_2ca0fb98' ==
+== 3DVtuber: convirtiendo y revisando (1-2 min) ==
+== Metadatos: nombre y licencia ==
+{
+ "written": "D:\\Anyw3D\\samples\\vrm_v2\\Rabbit sin gorra v2.vrm",
+ "changed": {
+  "allowRedistribution": [
+   false,
+   true
+  ],
+  "creditNotation": [
+   "required",
+   "unnecessary"
+  ],
+  "modification": [
+   "prohibited",
+   "allowModificationRedistribution"
+  ],
+  "name": [
+   "Armature",
+   "Rabbit sin gorra"
+  ]
+ }
+}
+
+== Revision de 3DVtuber ==
+  [aviso] build: exported file: 23 pictures, the file taken in had 24
+  [mirar] review: as apps draw it: 31728 mm2 of what shows through the opening in N00_000_Hair_00_HAIR lies over 12 mm behind it (face -60,30: degrees round from the front, up): the inside of the head shows from the side
+  Poses de prueba: sin fallos
+
+Listo: D:\Anyw3D\samples\vrm_v2\Rabbit sin gorra v2.vrm
