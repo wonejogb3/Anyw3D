@@ -1,0 +1,28 @@
+# ─── API ───────────────────────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# ─── Imagen / preprocesamiento ────────────────────────────────────────
+pillow==11.1.0
+numpy==2.2.1
+opencv-python-headless==4.11.0.86
+rembg==2.0.61          # quita el fondo (usa onnxruntime)
+onnxruntime==1.20.1    # CPU. Para GPU: onnxruntime-gpu (ver README)
+
+# ─── Mallas / postprocesamiento / exportación ─────────────────────────
+trimesh==4.5.3
+open3d==0.19.0         # opcional (limpieza avanzada); pesado
+pygltflib==1.16.3      # export .glb robusto
+scipy==1.15.1
+networkx==3.4.2        # trimesh: componentes conexos y normales
+fast-simplification==0.1.9  # decimación (modo low-poly)
+
+# ─── IA 3D (motores) ──────────────────────────────────────────────────
+# torch/torchvision NO se instalan aquí: se instalan aparte según tu GPU
+# (CUDA) o CPU. Ver scripts/setup.ps1 y el README.
+# TripoSR / InstantMesh / TRELLIS se clonan e integran como adaptadores
+# (backend/app/pipeline/engines). El scaffold corre sin ellos usando el
+# motor "mock".

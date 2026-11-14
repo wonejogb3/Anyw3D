@@ -1,0 +1,27 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+backend/.env
+backend/storage/uploads/
+backend/storage/outputs/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Motores externos (pesados, se clonan aparte)
+externals/
+
+# Build portable (se regenera con scripts\build_portable.ps1)
+.venv-portable/
+backend/web/
+build/
+dist/
+backend/storage/
+build_portable.log
+anyw3d_error.log
+
+# Modelos y avatares personales del usuario (no se suben a GitHub)
+samples/
