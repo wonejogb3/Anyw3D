@@ -1,0 +1,17 @@
+# Dependencias del build PORTABLE "lite" de Anyw3D (Anyw3D.exe).
+# - Sin PyTorch ni motores de IA pesados (tamaño razonable, corre en cualquier PC).
+# - Motor incluido: "mock" (silueta extruida) + quitado de fondo con OpenCV.
+# - Versiones mínimas (no fijadas) para que haya wheels en Python recientes (3.12-3.14).
+fastapi>=0.115
+uvicorn>=0.30
+python-multipart>=0.0.18
+pydantic>=2.10
+pydantic-settings>=2.6
+pillow>=11.0
+numpy>=2.1
+opencv-python-headless>=4.10
+trimesh>=4.5
+scipy>=1.14
+networkx>=3.3          # trimesh lo usa para separar componentes y orientar normales
+fast-simplification>=0.1.9  # decimación (modo low-poly)
+pyinstaller>=6.11
